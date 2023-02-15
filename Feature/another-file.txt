@@ -1,1 +1,3 @@
 another file in feature folder
+
+this file was modified locally
